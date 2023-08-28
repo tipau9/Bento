@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'tipau',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Logineo',
+					link: 'https://166881.logineonrw-lms.de/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Youtube',
+					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Google Translate',
+					link: 'https://translate.google.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/',
 				},
 			],
 		},
